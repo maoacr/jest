@@ -1,0 +1,15 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "@maoacr <maoacr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "24.9.0"
+  }
+}
